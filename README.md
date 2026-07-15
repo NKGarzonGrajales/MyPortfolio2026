@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MyPortfolio2026 🚀
 
-## Getting Started
+[Español](#español) | [English](#english)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Español
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+¡Bienvenido a mi portafolio profesional! Este proyecto es una aplicación web moderna y elegante diseñada para presentar mis proyectos, habilidades y experiencia como desarrolladora Full Stack.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🛠️ Tecnologías utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Next.js** (App Router)
+* **React**
+* **TypeScript**
+* **Tailwind CSS** (Estilos modernos y responsivos)
+* **Next-intl** (Soporte completo para Multi-idioma: Español / Inglés)
+* **Framer Motion / Three.js** (Animaciones interactivas)
 
-## Learn More
+### 🚀 Características
 
-To learn more about Next.js, take a look at the following resources:
+* **Diseño Premium:** Estética oscura, moderna y minimalista con componentes interactivos.
+* **Internacionalización (i18n):** Traducción fluida entre inglés y español conservando el estado de la navegación.
+* **Optimización Web:** Estructura de componentes optimizada para evitar problemas de hidratación y asegurar una carga ultra rápida.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## English
 
-## Deploy on Vercel
+Welcome to my professional portfolio! This project is a modern and elegant web application designed to showcase my projects, skills, and experience as a Full Stack Developer.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🛠️ Technologies Used
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **Next.js** (App Router)
+* **React**
+* **TypeScript**
+* **Tailwind CSS** (Modern and responsive styling)
+* **Next-intl** (Full Multi-language support: Spanish / English)
+* **Framer Motion / Three.js** (Interactive animations)
+
+### 🚀 Features
+
+* **Premium Design:** Dark, modern, and minimalist aesthetics featuring interactive components.
+* **Internationalization (i18n):** Seamless translation between English and Spanish while preserving navigation state.
+* **Web Optimization:** Highly optimized component structure to prevent hydration issues and ensure ultra-fast load times.
+
+---
+Creado con 💻 por / Created with 💻 by **Nidia K Garzón**.
