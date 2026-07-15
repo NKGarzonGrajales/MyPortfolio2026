@@ -1,0 +1,34 @@
+{
+  "navbar": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "tagline": "Full Stack Developer | Scalable Solutions",
+    "description": "Transforming ideas into modern applications"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Electronic Engineer and Full Stack Developer. I am passionate about combining my technical background with modern web development to create solutions that work and scale. Currently, I have 3 deployed and functional projects, and I truly enjoy the process of transforming ideas into code. I speak English (C1) and I am highly motivated to join a team where I can learn, contribute my experience, and collaborate in the development of innovative products."
+  },
+  "projects": {
+    "title": "Projects",
+    "viewDemo": "View Demo",
+    "viewCode": "View Code",
+    "tech": "Tech Stack"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Let's talk about opportunities",
+    "email": "Email",
+    "copyEmail": "Copy Email",
+    "copied": "¡Copied!",
+    "copiedSuccess": "¡Copied to clipboard!"
+    
+  },
+  "footer": {
+    "rights": "© 2025 Nidia Karina Garzón Grajales. All rights reserved."
+  }
+}

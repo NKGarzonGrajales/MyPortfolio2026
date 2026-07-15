@@ -1,0 +1,34 @@
+{
+  "navbar": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "tagline": "Full Stack Developer | Soluciones escalables",
+    "description": "Transformo ideas en aplicaciones modernas"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description": "Ingeniera Electrónica y Full Stack Developer. Me apasiona unir mi base técnica con el desarrollo web moderno para crear soluciones que funcionen y escalen. Actualmente cuento con 3 proyectos desplegados y funcionales, y disfruto mucho el proceso de transformar ideas en código. Hablo inglés (C1) y estoy muy motivada por integrarme a un equipo donde pueda aprender, aportar mi experiencia y colaborar en el desarrollo de productos innovadores."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "viewDemo": "Ver Demo",
+    "viewCode": "Ver Código",
+    "tech": "Stack Tecnológico"
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "description": "Hablemos sobre oportunidades",
+    "email": "Correo",
+    "copyEmail": "Copiar correo ",
+    "copied": "¡Copiado!",
+    "copiedSuccess": "¡Copiado al portapapeles!"
+    
+  },
+  "footer": {
+    "rights": "© 2025 Nidia Karina Garzón Grajales. Todos los derechos reservados."
+  }
+}
