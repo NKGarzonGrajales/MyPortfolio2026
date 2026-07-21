@@ -13,8 +13,8 @@ export default function Projects() {
         {/* Título */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            <span className="bg-gradient-to-r from-blue-500 to-violet-500 bg-clip-text text-transparent">
-              {t('projects.title')}
+            <span className="bg-linear-to-r from-blue-500 to-violet-500 bg-clip-text text-transparent">
+              {t("projects.title")}
             </span>
           </h2>
           <p className="text-slate-400 text-lg">
@@ -23,9 +23,14 @@ export default function Projects() {
         </div>
 
         {/* Grid de Proyectos */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="flex flex-wrap justify-center gap-6">
           {projects.map((project) => (
-            <ProjectCard key={project.id} project={project} />
+            <div
+              key={project.id}
+              className="w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] max-w-sm min-w-[320px] flex justify-center items-stretch"
+            >
+              <ProjectCard project={project} />
+            </div>
           ))}
         </div>
       </div>

@@ -44,4 +44,17 @@ export const projects: Project[] = [
     repoUrl: 'https://github.com/NKGarzonGrajales/FP3-HENRY',
     featured: true,
   },
+
+  {
+    id: 4,
+    titleEs: 'KipuBankV3 - Sistema Bancario Descentralizado & Auditoría',
+    titleEn: 'KipuBankV3 - Decentralized Banking System & Security Audit',
+    descriptionEs: 'Sistema bancario descentralizado (DeFi) para depósitos y retiros de ETH/ERC20, integración con Oráculos de Chainlink, gestión de roles y swapping interno de tokens estilo AMM. Incluye informe de auditoría de seguridad y pruebas automatizadas con Foundry.',
+    descriptionEn: 'Decentralized banking system (DeFi) for ETH/ERC20 deposits and withdrawals, Chainlink Oracle integration, role management, and internal AMM-style token swapping. Includes security audit report and automated Foundry tests.',
+    technologies: ['Solidity', 'Ethereum', 'Foundry', 'Chainlink', 'OpenZeppelin', 'Web3'],
+    demoUrl: 'https://sepolia.etherscan.io/address/0x9db4f934df129e959f9f205f3dd5cd8dcbe86a05',
+    repoUrl: 'https://github.com/NKGarzonGrajales/KipuBankV3-FoundryAudit',
+    featured: true,
+  },
+
 ];
